@@ -1,0 +1,21 @@
+{
+  "name": "eink-test-1",
+  "displayName": "eink_test_1",
+  "description": "Probably a very usable eink color scheme.  Probably totally usable outside eink, too.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "E-Ink Test 1",
+        "uiTheme": "hc-light",
+        "path": "./themes/E-Ink Test 1-color-theme.json"
+      }
+    ]
+  }
+}
