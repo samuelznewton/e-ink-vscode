@@ -1,16 +1,5 @@
 # eink-test-1 README
 
-## Working with Markdown
+It's a VS Code theme for an electronic paper (e-ink, whatever you call it) monitor, because I couldn't find a good theme that already existed.  Apparently the fact that it's based on high-contrast is noteworthy.  (Pro-tip: if you want to create a color theme that functions well in a monochrome or limited-color environment, make it a high-contrast theme.  This is the intended purpose of high-contrast.)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+I haven't tested it much, and what testing I have done has mostly been in Python.  Basically, feel free to give it a try, but I don't promise it'll actually work well for you.
