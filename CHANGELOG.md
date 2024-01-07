@@ -1,9 +1,8 @@
 # Change Log
 
-All notable changes to the "eink-test-1" extension will be documented in this file.
+## [0.1.0] - 2024-01-06
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Added
 
-## [Unreleased]
-
-- Initial release
+- Initial release.
+- Primarily tested with Python.  Other languages may need further optimization.

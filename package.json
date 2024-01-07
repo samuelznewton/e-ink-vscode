@@ -1,10 +1,16 @@
 {
-  "name": "eink-test-1",
-  "displayName": "eink_test_1",
-  "description": "Probably a very usable eink color scheme.  Probably totally usable outside eink, too.",
-  "version": "0.0.1",
+  "name": "samuelznewton-e-ink",
+  "displayName": "SamuelZNewton E-Ink",
+  "description": "A VS Code color theme optimized for E-Ink and other monochrome displays.",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.83.0"
+  },
+  "repository": {
+    "url": "https://github.com/samuelznewton/e-ink-vscode"
+  },
+  "author": {
+    "name": "Samuel Z Newton"
   },
   "categories": [
     "Themes"
@@ -12,9 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "E-Ink Test 1",
+        "label": "SamuelZNewton E-Ink",
         "uiTheme": "hc-light",
-        "path": "./themes/E-Ink Test 1-color-theme.json"
+        "path": "./themes/samuelznewton-e-ink-color-theme.json"
       }
     ]
   }
